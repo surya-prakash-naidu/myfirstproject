@@ -1,1 +1,2 @@
 hey! this is about page
+this is updated to make the changes reflected in main branch
